@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Marsal
 -  👀 Check out my other Acc : https://github.com/DedSec2050
+-  🌱 Prefers to stay away from Lime Light
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
